@@ -1,4 +1,4 @@
-- 👋 This is my undoxxed profile, you can call me Soong. I am a sw/hw engineer and developer and for the last 20+ years I have worked with many industries so plently of experience with some interesting projects, people and organizations.
+- 👋 This is my undoxxed profile, you can call me Soong. I am a sw/hw engineer and developer and for the last 2 decades I have worked with many industries so plently of experience with some interesting projects, people and organizations.
 - 👀 You can also find something interesting about what I've been currently engaged in my gitbook [Amazing Soong's Home](https://soong.gitbook.io/home/).
 
 **So, what have I been doing for the last 20 years?**
