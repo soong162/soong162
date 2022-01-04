@@ -2,6 +2,7 @@
 - 👀 You can also find something interesting about what I've been currently engaged in my gitbook [Amazing Soong's Home](https://soong.gitbook.io/home/).
 
 **So, what have I been working with for the last 20 years?**
+
 _[soon ... or I do this or I do code more 😜 and at this time (any time you read that it will be true) it's more fun to code, but I will do...eventually (●'◡'●)]_
 
 <!---
