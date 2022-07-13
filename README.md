@@ -1,3 +1,13 @@
+## About Me :wave:
+
+Hey there! :smile: 
+
+![](https://komarev.com/ghpvc/?username=pvrego&label=PROFILE+VIEWS&color=brightgreen)
+
+<img src="https://github-readme-stats.vercel.app/api?username=pvrego&show_icons=true&count_private=true" alt="hiccupsoft" />
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=pvrego&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 👋 This is my undoxxed profile, you can call me Soong. I am a sw/hw engineer and developer and for the last 2 decades I have worked with many industries so plently of experience with some interesting projects, people and organizations.
 - 👀 You can also find something interesting about what I've been currently engaged in my gitbook [Amazing Soong's Home](https://soong.gitbook.io/home/).
 
